@@ -3,5 +3,7 @@ A reupload of Xolo's UGC item sniper, but with added mods. I will try to update 
 
 ## Current Mods:
 Webhook Support
+- Successful Purchases
+- Errors
 
 To see all the planned mods, visit the [xolo-modded Dev Board](https://github.com/users/bestadamdagoat/projects/5)
